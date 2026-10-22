@@ -8,7 +8,7 @@ engineering student, skills, projects, and ways to get in touch.
 It is a static site with no build process or automated test suite currently
 configured.
 
-## Planned pages
+## Pages
 
 - `index.html`: Home page with an introduction and links to the main pages.
 - `about.html`: Background, education, interests, and skills.
@@ -16,8 +16,7 @@ configured.
 - `contact.html`: Contact information and professional profile links supplied
   by the owner.
 
-Only `index.html` currently exists. Create the other pages when requested,
-and keep navigation consistent across pages.
+Keep navigation consistent across all four pages.
 
 ## Design
 
@@ -34,7 +33,10 @@ and keep navigation consistent across pages.
 
 ## Key files
 
-- `index.html`: Homepage content and inline styles.
+- `index.html`, `about.html`, `projects.html`, `contact.html`: Portfolio pages.
+- `assets/styles.css`: Shared responsive styles.
+- `assets/script.js`: Small progressive enhancements.
+- `assets/images/`: Original project photos.
 - `README.md`: Repository introduction.
 - `AGENTS.md`: Instructions for coding agents working in this repository.
 
