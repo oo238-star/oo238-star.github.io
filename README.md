@@ -2,6 +2,10 @@
 
 Personal portfolio built with plain HTML, CSS, and JavaScript for GitHub Pages.
 
+## Live website
+
+Visit the portfolio at [oo238-star.github.io](https://oo238-star.github.io/).
+
 ## Pages
 
 - Home: introduction and featured engineering work.
